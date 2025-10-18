@@ -31,6 +31,3 @@ The datasets are too large for GitHub, so they are hosted on Google Drive:
 1. Download the `.pbix` file.
 2. Open it in Power BI Desktop.
 3. Explore the visuals and filters interactively.
-
-## 📸 Preview
-(Add screenshots of your dashboard here later)
